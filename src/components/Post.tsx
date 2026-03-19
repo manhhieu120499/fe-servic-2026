@@ -1,5 +1,3 @@
-import React from "react";
-
 type POSTPROPS = {
   postImage: string;
   userAvatar: string;

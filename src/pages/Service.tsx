@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import MiniBanner from "../components/MiniBanner";
 import { Search } from "lucide-react";
 import ServiceSection from "../components/ServiceSection";
